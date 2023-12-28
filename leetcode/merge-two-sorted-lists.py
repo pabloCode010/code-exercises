@@ -1,4 +1,3 @@
-from time import sleep
 # MERGE TWO SORTED LISTS
 # https://leetcode.com/problems/merge-two-sorted-lists/
 
